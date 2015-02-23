@@ -1,4 +1,5 @@
-Porting @weritos / @Y300-0100's CyanogenMod 11 for Optimus L7II (vee7)
-to HTC Desire X (protou). Wish me luck, I'll need it :)
+# Vendor tree for Desire X (protou)
+Porting @Kirmaniarslan's CyanogenMod 12 for HTC Explorer (pico)
+to HTC Desire X (protou). This is mainly taken from @prototype-U's fork
 
-(I've  got no idea what I'm doing or where I'm going with this)
+* [prototype-U's fork](https://github.com/prototype-U/android_vendor_htc_protou)
